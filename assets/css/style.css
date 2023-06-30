@@ -106,7 +106,7 @@ html {
     margin-top: 46.5px;
     padding-top: 50%; 
     /* 50% chiều ngang của chính nónó */
-    background : url('./assets/img/slidert/slider1.JPG') top center / cover no-repeat ;
+    background : url('./assets/img/slidert/slider1.jpg') top center / cover no-repeat ;
     /* background img / background position / background size/ background-repeat: ; */
 }  
 #slider .text-content{
